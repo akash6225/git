@@ -1,0 +1,8 @@
+Use:
+Pushing changes from local git repo to remote git repo.
+
+Syntax:
+git push origin main
+
+Example:
+git push origin main

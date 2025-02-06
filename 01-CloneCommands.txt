@@ -1,0 +1,8 @@
+Use:
+Copying git repository from remote (example, from Github) to local machine/laptop/desktop.
+
+Syntax:
+git clone <https clone url of remote git repo>
+
+Example:
+git clone https://github.com/akash6225/git.git

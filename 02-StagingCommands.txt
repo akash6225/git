@@ -1,0 +1,8 @@
+Use:
+Moving over untracked files from working directory to staging area.
+
+Syntax:
+git add <filename.ext>
+
+Example:
+git add abc.txt
