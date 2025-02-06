@@ -3,6 +3,8 @@ Moving all files present in the staging area to local git repo.
 
 Syntax:
 git commit -m "commit msg"
+git commit <file1.ext> <file2.ext> <file7.ext> -m "commit msg"
 
 Example:
 git commit -m "Code for calc super built up area"
+git commit abc.txt family.png -m "Committing abc.txt and family.png"

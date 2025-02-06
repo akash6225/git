@@ -3,6 +3,12 @@ Moving over untracked files from working directory to staging area.
 
 Syntax:
 git add <filename.ext>
+git add <file1.ext> <file4.ext>
+git add -A
+git add --all
 
 Example:
 git add abc.txt
+git add abc.txt pqr.txt xyz.txt
+git add -A
+git add --all
